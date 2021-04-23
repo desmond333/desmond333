@@ -1,4 +1,6 @@
-### Hi there 👋
+![logoza ru](https://user-images.githubusercontent.com/67102520/115915866-a10fcf80-a47c-11eb-8386-a18878063fbe.png)
+
+### Hey, everybody, I am beginner front-end developer and just nice guy 👋
 
 <!--
 **desmond333/desmond333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
