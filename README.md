@@ -1,4 +1,5 @@
-![logoza ru](https://user-images.githubusercontent.com/67102520/115915866-a10fcf80-a47c-11eb-8386-a18878063fbe.png)
+![logo](https://user-images.githubusercontent.com/67102520/115916553-a02b6d80-a47d-11eb-8704-0b063230585e.png)
+
 
 ### Hey, everybody, I am beginner front-end developer and just nice guy 👋
 
