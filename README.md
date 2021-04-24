@@ -2,9 +2,9 @@
 
 ### Hey, everybody, I am beginner front-end developer and just nice guy 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=desmond333&hide=prs,issues,contribs&show_icons=true&theme=radical)](https://github.com/anuraghaz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=desmond333&hide=prs,issues,contribs&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desmond333)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desmond333&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
