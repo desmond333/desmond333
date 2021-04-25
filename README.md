@@ -3,9 +3,10 @@
 ### Hey, everybody, I am beginner front-end developer and just nice guy 👋
 
 ### About me
-#### 👨‍💻 First of all, my goal is to develop, to contribute knowledge to myself in order to become better and better. Now I am 22 years old, I started programming in the second half of 2020 and during this time I managed to achieve a lot in this area, due to my perseverance and responsibility. I am a very fast learner and at my age I want to take the most out of this life and profession!
-#### ⚽️🏓 In addition to programming, I am interested in various sports, for example, football, table tennis, bodybuilding, cycling, a little acrobatics :)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=desmond333&hide=issues&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+👨‍💻 First of all, my goal is to develop, to contribute knowledge to myself in order to become better and better. Now I am 22 years old, I started programming in the second half of 2020 and during this time I managed to achieve a lot in this area, due to my perseverance and responsibility. I am a very fast learner and at my age I want to take the most out of this life and profession!
+⚽️🏓 In addition to programming, I am interested in various sports, for example, football, table tennis, bodybuilding, cycling, a little acrobatics :)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=desmond333&hide=issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ### Languages and Tools
   ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=F16625)
@@ -23,3 +24,6 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/web_programmer2020)
 ![Email](https://img.shields.io/badge/-my_post_office1@mail.ru-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)
 [![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/desmond333)
+
+### My visitors
+![visitors](https://visitor-badge.glitch.me/badge?page_id=desmond333)
