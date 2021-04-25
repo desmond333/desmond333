@@ -8,7 +8,7 @@
 
 ### Some statistics of my github profile
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=desmond333&hide=issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=desmond3331&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=desmond333&theme=dark)](https://git.io/streak-stats)
 
 ### Languages and Tools
   ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=F16625)
