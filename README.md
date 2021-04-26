@@ -1,6 +1,6 @@
 ![download](https://user-images.githubusercontent.com/67102520/116004501-98013880-a60b-11eb-9129-faf57292081f.gif)
 
-### Hey, everybody, I am beginner front-end developer and just nice guy 👋
+### Hey, everybody, I am a beginner front-end developer and just a nice guy 👋
 
 ### About me
 #### 👨‍💻 First of all, my goal is to develop, to contribute knowledge to myself in order to become better and better. Now I am 22 years old, I started programming in the second half of 2020 and during this time I managed to achieve a lot in this area, due to my perseverance and responsibility. I am a very fast learner and at my age I want to take the most out of this life and profession!
